@@ -69,13 +69,13 @@ K Nearest Neighbors (k-NN) was performed to classify each of the generated image
   
 Accuracy (%)
 
-&K value &Original Dataset &Fake Dataset &Combined Dataset
+K value | Original Dataset | Fake Dataset | Combined Dataset
 
-&3 &31.5 &21.33 &50.80
+3       | 31.5             | 21.33        | 50.80
 
-&5 &28.9 &20.90 &53.69
+5       | 28.9             | 20.90        | 53.69
 
-&10 &30.4 &20.67 &55.55
+10      | 30.4             | 20.67        | 55.55
 
 
 
