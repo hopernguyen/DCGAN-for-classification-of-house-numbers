@@ -60,5 +60,24 @@ Output: probability to be real
 Total trainable parameters = 2,759,424
 
 
+# Result
+
+K Nearest Neighbors (k-NN) was performed to classify each of the generated images to evaluate how realistic each generated image was.K-NN was tested on the original SVHN Dataset
+
+
+
+  
+Accuracy (%)
+
+&K value &Original Dataset &Fake Dataset &Combined Dataset
+
+&3 &31.5 &21.33 &50.80
+
+&5 &28.9 &20.90 &53.69
+
+&10 &30.4 &20.67 &55.55
+
+
+
 
 
