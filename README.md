@@ -78,6 +78,6 @@ K value | Original Dataset | Fake Dataset | Combined Dataset
 10      | 30.4             | 20.67        | 55.55
 
 
-See GAN Presentation file for more detail
+See Presentation file for more detail
 
 
